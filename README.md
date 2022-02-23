@@ -31,6 +31,7 @@ Utilizamos a base de dados [Anime Recommendation Database 2020](https://www.kagg
 Dessa base utilizaremos os arquivos:
 
 *anime_with_synopsis.csv* - Lista de animes com seu nome, genero e synopses.
+
 *animelist.csv* - contém 100 milhões de interações de usuarios.
 
 
