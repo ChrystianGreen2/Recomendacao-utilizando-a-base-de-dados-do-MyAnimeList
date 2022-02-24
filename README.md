@@ -7,8 +7,7 @@ Modelo de recomendação utilizando Tensorflow Recommenders e a base de dados do
 - Data Preprocessing
 - Modeling
 - Model Evaluation and Validation
-- Justification
-- Reflection
+- Test
 - What Can Be Improved?
 
 # Problem Statement
@@ -34,6 +33,11 @@ Dessa base utilizaremos os arquivos:
 
 *animelist.csv* - contém 100 milhões de interações de usuarios.
 
+# Data Preprocessing
+# Modeling
+# Model Evaluation and Validation
+# Test 
+# What Can Be Improved?
 
 ![embeddings_3](https://user-images.githubusercontent.com/71555983/155336541-8dec7647-07ba-43eb-8a12-7d229645bbbc.png)
 
