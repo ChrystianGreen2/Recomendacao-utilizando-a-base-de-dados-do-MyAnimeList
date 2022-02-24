@@ -6,7 +6,6 @@ Não irei me aprofundar muito nas partes de exploração,visualização e prepro
 - [Problem Statement](#problem-statement)
 - [Retrieval Method](#retrieval-method)
 - [Data Exploration and Data Visualization](#data-exploration-data-visualization-and-data-preprocessing)
-- [Data Preprocessing](#data-preprocessing)
 - [Modeling](#modeling)
 - [Model Evaluation and Validation](#model-evaluation-and-validation)
 - [Using the Model](#using-the-model)
