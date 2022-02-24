@@ -38,7 +38,9 @@ Dessa base utilizaremos os arquivos:
 # Modeling
 
 O nosso modelo é composto de dois submodelos:
+
 QueryModel - Computa a representação da busca, no nosso caso usamos o Id do usuário para realizar a busca.
+
 CandidateModel - Computa a representação dos conteúdos, utilizamos as informaçoes do conteúdo como nome,titulo e sinopse.
 
 # Model Evaluation and Validation
