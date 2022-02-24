@@ -55,6 +55,12 @@ Para realizar as recomendações, fornecemos o ID do usuario e é nos retornado 
 ![image](https://user-images.githubusercontent.com/71555983/155600874-124e6414-a5a9-4625-8690-88e52f642eac.png)
 Em 0.5 segundos foram feitas 50 recomendações para o usuario 2997.
 
+Categorias dos animes assistidos:
+![image](https://user-images.githubusercontent.com/71555983/155603953-2bc4dcd0-00dd-4107-ad03-eef695ced869.png)
+Categoria dos animes recomendados:
+![image](https://user-images.githubusercontent.com/71555983/155604801-bd000972-0e5d-4b0c-9c34-0b07dce1e7e4.png)
+Apesar das recomendações não serem certeiras, da pra ver que a categoria das recomendações são bem proximas das categorias vistas pelo usuário.
+
 #### Recomendações:
 ![image](https://user-images.githubusercontent.com/71555983/155601155-dbab3d30-4138-4604-9e6c-763e97730509.png)
 
