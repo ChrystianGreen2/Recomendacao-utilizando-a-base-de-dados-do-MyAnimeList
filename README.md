@@ -3,14 +3,16 @@ Modelo de recomendação utilizando Tensorflow Recommenders e a base de dados do
 
 Não irei me aprofundar muito nas partes de exploração,visualização e preprocessamento ja que não são nossos dados reais, então o foco é na Modelagem e resultados.
 
-- Problem Statement
-- Retrieval Method
-- Data Exploration and Data Visualization
-- Data Preprocessing
-- Modeling
-- Model Evaluation and Validation
-- Using the Model
-- What Can Be Improved?
+- [Problem Statement](#problem-statement)
+- [Retrieval Method](#retrieval-method)
+- [Data Exploration and Data Visualization](#data-exploration-data-visualization-and-data-preprocessing)
+- [Data Preprocessing](#data-preprocessing)
+- [Modeling](#modeling)
+- [Model Evaluation and Validation](#model-evaluation-and-validation)
+- [Using the Model](#using-the-model)
+- [What Can Be Improved?](#what-can-be-improved)
+- [Conclusion](#conclusion)
+- [Anime Embeddings](#anime-embeddings)
 
 # Problem Statement
 Dado um usuario, precisamos recomenda-lo conteúdos com base em outros conteúdos que o usuario viu e gostou, mas excluindo conteúdos que o usuario ja viu.
